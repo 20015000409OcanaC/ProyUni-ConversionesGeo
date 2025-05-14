@@ -1,0 +1,14 @@
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.csproj.AssemblyReference.cache
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.Form1.resources
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.Properties.Resources.resources
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.csproj.GenerateResource.cache
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\bin\Debug\Conversiones_FiurasGeomreticas_JO.exe.config
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\bin\Debug\Conversiones_FiurasGeomreticas_JO.exe
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\bin\Debug\Conversiones_FiurasGeomreticas_JO.pdb
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.cuadrado.resources
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.exe
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.pdb
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.Heptagono_Octagono.resources
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.Pentagono_Hexagono.resources
+C:\Users\DANIEL OCAÑA\source\repos\Conversiones_FiurasGeomreticas_JO\obj\Debug\Conversiones_FiurasGeomreticas_JO.Ovalo_Poligono.resources
